@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [trianna](https://triannan.github.io)!
-- 👀 I’m an aspiring software engineer and a sophomore at the University of Michigan :)
-- 🌱 I'm interested in learning new things and ricing my linux distro!
+- 👀 I’m an aspiring software engineer and a 3rd year at the University of Michigan :)
+- 🌱 I interned at Twitter over the summer and I'm currently interning at HubSpot!
 - 💞️ I love art and animation and I crochet in my free time✨
 
 <!---
